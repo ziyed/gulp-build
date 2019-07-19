@@ -1,0 +1,1 @@
+console.log("First js");var i=10,name="dada";console.log("Second js");
